@@ -7,10 +7,10 @@ ESP32 se utiliza en un ambiente de adquisici√≥n de datos, por lo que en esta pr√
 
 #### MATERIAL
 Para este trabajo utilizaremos lo siguiente:
-WOKWI
-Tarjeta ESP32
-Sensor DHT11
-LCD 16x2 (I2C)
+* WOKWI
+* Tarjeta ESP32
+* Sensor DHT11
+* LCD 16x2 (I2C)
 
 ##### INSTRUCCIONES 
 1. Abrir nuestro progrma Worki y colocar el siguiente codigo:
