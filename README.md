@@ -18,3 +18,5 @@ Abrir nuestro progrma Worki y colocar el siguiente codigo:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/p4.1.png)
 
 Instalar la libreria de DHT Sensor library for ESPx y LiquidCrystal I2C:
+![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/P4.2.png)
+
