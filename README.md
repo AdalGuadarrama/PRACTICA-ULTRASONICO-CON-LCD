@@ -24,5 +24,9 @@ Para este trabajo utilizaremos lo siguiente:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/P4.3.png)
 
 4. Colocar la temperatura y humedad dando doble click al sensor DHT11:
+![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/P4.4.png)
 
-
+##### RESULTADOS 
+Podemos observar que los valores introducidos se mostraran  dentro de la pantalla LCD.
+##### CREDITOS 
+Ing. Guadarrama Lome Adalberto. 
