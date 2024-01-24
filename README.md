@@ -14,3 +14,4 @@ LCD 16x2 (I2C)
 
 ##### INSTRUCCIONES 
 Abrir nuestro progrma Worki y colocar el siguiente codigo:
+![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/p4.0.png)
