@@ -20,3 +20,9 @@ Para este trabajo utilizaremos lo siguiente:
 2. Instalar la libreria de DHT Sensor library for ESPx y LiquidCrystal I2C:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/P4.2.png)
 
+3.Realizar la conexion de DHT11 y LCD 16x2 (I2C) con la ESP32:
+![.](https://github.com/AdalGuadarrama/PRACTICA-ULTRASONICO-CON-LCD/blob/main/P4.3.png)
+
+4. Colocar la temperatura y humedad dando doble click al sensor DHT11:
+
+
